@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+<<<<<<< HEAD
+  <runtime name="apache-tomcat-10.1.36"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="java"/>
+  <installed facet="java" version="25"/>
+  <installed facet="jst.web" version="6.0"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+=======
+  <fixed facet="wst.jsdt.web"/>
+  <installed facet="jst.web" version="2.3"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+  <installed facet="java" version="21"/>
+>>>>>>> 4bb75da (intern servlet)
+</faceted-project>
