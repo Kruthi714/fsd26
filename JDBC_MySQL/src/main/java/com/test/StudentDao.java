@@ -6,6 +6,10 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
+<<<<<<< HEAD
+=======
+
+>>>>>>> af078eb6962d0c91da51977373e94723aef3aff7
 public class StudentDao {
 	public static Connection getCon() {
 		String driver="com.mysql.cj.jdbc.Driver";
