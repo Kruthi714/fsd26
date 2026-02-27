@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>welome guys</h1>
-<a href="user">home</a>
+<a href="user">userform</a>
 </body>
 </html>
